@@ -1,0 +1,5 @@
+run:
+  skip-dirs:
+    - .docs
+output:
+  format: colored-line-number
