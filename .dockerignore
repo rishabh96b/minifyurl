@@ -1,0 +1,8 @@
+# Exculde unnecessary dirs
+*/.docs*
+
+# Files
+*.md
+.gitignore
+.golangci.yaml
+.env
