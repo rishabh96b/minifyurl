@@ -13,3 +13,6 @@
 
 # Directories
 .docs
+
+# Env file
+.env
